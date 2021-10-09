@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-09T07:53:31 PDT" name="com.qa.crm.testcases.LoginPageTest" finished-at="2021-10-09T07:53:47 PDT" duration-ms="15503">
+    <groups>
+    </groups>
+    <test started-at="2021-10-09T07:53:31 PDT" name="Command line test" finished-at="2021-10-09T07:53:47 PDT" duration-ms="15503">
+      <class name="com.qa.crm.testcases.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.crm.testcases.LoginPageTest@55183b20]" started-at="2021-10-09T07:53:31 PDT" name="setUp" finished-at="2021-10-09T07:53:47 PDT" duration-ms="15151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateLoginPageTitleTest()[pri:0, instance:com.qa.crm.testcases.LoginPageTest@55183b20]" started-at="2021-10-09T07:53:47 PDT" name="validateLoginPageTitleTest" finished-at="2021-10-09T07:53:47 PDT" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginPageTitleTest -->
+      </class> <!-- com.qa.crm.testcases.LoginPageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.qa.crm.testcases.LoginPageTest -->
+</testng-results>

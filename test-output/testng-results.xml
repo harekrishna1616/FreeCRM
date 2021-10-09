@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-09T02:00:02 PDT" name="Default suite" finished-at="2021-10-09T02:00:16 PDT" duration-ms="13382">
+    <groups>
+    </groups>
+    <test started-at="2021-10-09T02:00:02 PDT" name="Default test" finished-at="2021-10-09T02:00:16 PDT" duration-ms="13382">
+      <class name="com.qa.crm.testcases.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.crm.testcases.LoginPageTest@78123e82]" started-at="2021-10-09T02:00:02 PDT" name="setUp" finished-at="2021-10-09T02:00:15 PDT" duration-ms="13296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateLoginPageTitleTest()[pri:0, instance:com.qa.crm.testcases.LoginPageTest@78123e82]" started-at="2021-10-09T02:00:15 PDT" name="validateLoginPageTitleTest" finished-at="2021-10-09T02:00:16 PDT" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginPageTitleTest -->
+      </class> <!-- com.qa.crm.testcases.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
